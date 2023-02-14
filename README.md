@@ -1,5 +1,5 @@
 # gb-carpack
-# Download from releases! They are merged and 
+# Download from releases!
 GOODBANANAHUN CAR PACK FROM DEFERENT SITES!
 
 IMPORTANT!
