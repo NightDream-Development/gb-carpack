@@ -1,5 +1,5 @@
 # gb-carpack
-
+# Download from releases! They are merged and 
 GOODBANANAHUN CAR PACK FROM DEFERENT SITES!
 
 IMPORTANT!
@@ -13,14 +13,11 @@ So lets get ahead for the installation!
 INSTALLATION
 --------------------------
 
-1. Download the latest version of the pack from: https://github.com/NightDream-Development/gb-carpack  (Download a ZIP version!!!)
+1. Download the latest version of the pack from: https://github.com/NightDream-Development/gb-carpack/releases  (Download a ZIP version!!!)
 
-2. Go to your desktop and unzip the files
+2. Go to your resource or [assets] folder
 
-3. Navigate to your FiveM server directory and drag them to a directory or create one
-like [assets] or [cars].
-
-Important to name the main driectory with [*] !!!
+3. put the gb-carpack script in the folder
 
 4. Go to your Server-CFG and find a playe where you can add a new line of command.
 
