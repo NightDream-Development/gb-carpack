@@ -27,3 +27,6 @@ and paste this command: ensure gb-carpack
 
 Now your cars are ready for put them in dealership or pp cars, most likely everything you want!
 Thank you for downloadnig my car pack! Enjoy it!
+
+Discord: https://discord.gg/F645VHYVZ9
+
